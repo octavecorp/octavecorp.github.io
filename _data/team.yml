@@ -1,34 +1,9 @@
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Andrews Nii Awuley Lartey
+  image: http://res.cloudinary.com/octavecorp-me/image/upload/c_scale,w_1080/v1524666335/andrewslartey.jpg
+  email: lartey@octavecorp.me
+  phone: +233 54 167 4716
 
-- name: Troy Barnes 
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+- name: Fanissa Tchabgele
+  image: http://res.cloudinary.com/octavecorp-me/image/upload/v1524666318/fanissa.jpg
+  email: fanissa@octavecorp.me
+  phone: +233 50 557 7564
