@@ -3,7 +3,8 @@ title: Octave Corporation
 description: "Octave corporations’ service is to manage the relationship between students and organizations ensuring that companies are best represented and students are groomed to be competent towards a successful career path."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://octavecorp.me" # the name of your domain
-logo_url: http://res.cloudinary.com/octavecorp-me/image/upload/v1524431695/octaveCorporationTransparent800.png
+logo_url: http://res.cloudinary.com/octavecorp-me/image/upload/v1524664941/octaveCorporationLogoFull.jpg
+
 
 # Hero
 hero: 
