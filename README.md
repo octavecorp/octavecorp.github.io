@@ -1,6 +1,11 @@
-# DentistSmile - Jekyll Theme
+# Octave Corporation
 
-A single page Jekyll theme for dental clinics. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form. Docs can be found [here](http://obaez.com/dentistsmile-docs/).
+Octave corporations’ service is to manage the relationship between students and organizations ensuring that companies are best represented and students are groomed to be competent towards a successful career path.
 
-Here is a [live Demo](http://obaez.com/dentistsmile/)
+Visit our website:          http://octavecorp.me
+Follow us on twitter:       https://twitter.com/OctaveCorp
+Follow us on facebook:      https://www.facebook.com/Octave-Corporation-454957284954311/
+Follow us on instagram:     https://instagram.com/octavecoorp
+
+Get in-touch with us via email:  info@octavecorp.me  |  octavecoorp@gmail.com
 
